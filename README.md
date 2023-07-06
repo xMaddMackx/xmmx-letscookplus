@@ -1,2 +1,2 @@
 # xmmx-letscookplus
-[QB/ESX] Let's Cook Plus Version Checker &amp; Docs
+[QB/ESX] Let's Cook Plus Version Checker
